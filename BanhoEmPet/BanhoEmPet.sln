@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanhoEmPet", "BanhoEmPet\BanhoEmPet.csproj", "{9DDDDF58-8B99-499A-8F24-4ACCEEE383F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanhoEmPetTest", "BanhoEmPetTest\BanhoEmPetTest.csproj", "{5E9DFDBF-2DC9-4694-AAC6-8173C014782E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DDDDF58-8B99-499A-8F24-4ACCEEE383F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDDDF58-8B99-499A-8F24-4ACCEEE383F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDDDF58-8B99-499A-8F24-4ACCEEE383F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDDDF58-8B99-499A-8F24-4ACCEEE383F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9DFDBF-2DC9-4694-AAC6-8173C014782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9DFDBF-2DC9-4694-AAC6-8173C014782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9DFDBF-2DC9-4694-AAC6-8173C014782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9DFDBF-2DC9-4694-AAC6-8173C014782E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE9B578-09F6-4494-9D3E-C8298D788A8F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/deleyalemao
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BanhoEmPet\\BanhoEmPet.csproj
+		SccProjectName1 = BanhoEmPet
+		SccLocalPath1 = BanhoEmPet
+		SccProjectUniqueName2 = BanhoEmPetTest\\BanhoEmPetTest.csproj
+		SccProjectName2 = BanhoEmPetTest
+		SccLocalPath2 = BanhoEmPetTest
+	EndGlobalSection
+EndGlobal

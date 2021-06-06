@@ -1,0 +1,14 @@
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\BanhoEmPetTest.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\BanhoEmPetTest.pdb
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\BanhoEmPet.exe
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\BanhoEmPet.pdb
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\BanhoEmPet.exe.config
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\obj\Debug\BanhoEmPetTest.csproj.AssemblyReference.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\obj\Debug\BanhoEmPetTest.csproj.CoreCompileInputs.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\obj\Debug\BanhoEmPetTest.csproj.CopyComplete
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\obj\Debug\BanhoEmPetTest.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPetTest\obj\Debug\BanhoEmPetTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\bin\Debug\BanhoEmPet.exe.config
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\bin\Debug\BanhoEmPet.exe
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\bin\Debug\BanhoEmPet.pdb
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.csproj.AssemblyReference.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.FormPrincipalBanhoEmCaes.resources
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.Properties.Resources.resources
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.csproj.GenerateResource.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.csproj.CoreCompileInputs.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.exe
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BanhoEmPet\BanhoEmPet\obj\Debug\BanhoEmPet.pdb
