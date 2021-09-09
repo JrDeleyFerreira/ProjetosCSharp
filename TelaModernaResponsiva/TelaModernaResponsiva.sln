@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelaModernaResponsiva", "TelaModernaResponsiva\TelaModernaResponsiva.csproj", "{AD93511E-97AB-4598-AB42-2CE4CDF46E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD93511E-97AB-4598-AB42-2CE4CDF46E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD93511E-97AB-4598-AB42-2CE4CDF46E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD93511E-97AB-4598-AB42-2CE4CDF46E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD93511E-97AB-4598-AB42-2CE4CDF46E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0658D8CA-6A62-439E-A9BD-AFEFF488CCC7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/deleyalemao
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TelaModernaResponsiva\\TelaModernaResponsiva.csproj
+		SccProjectName1 = TelaModernaResponsiva
+		SccLocalPath1 = TelaModernaResponsiva
+	EndGlobalSection
+EndGlobal
