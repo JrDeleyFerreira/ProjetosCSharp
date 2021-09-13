@@ -11,6 +11,8 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>BilhetePremiado.Program</StartupObject>
+    <ApplicationIcon>croudfunding_122852.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>

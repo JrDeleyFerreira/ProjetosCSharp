@@ -8,6 +8,8 @@ namespace BilhetePremiado
 {
   public partial class Form_Principal : Form
   {
+    private List<Button> botoes = new List<Button>();
+
     public Form_Principal() => InitializeComponent();
 
     private void btn_jogar_Click(object sender, EventArgs e)
@@ -39,7 +41,17 @@ namespace BilhetePremiado
         var resultadoFinal = totalizadorResultados.RecuperaMaisSorteados(qtdeDezenas);
 
         MontaInterfaceResultado(resultadoFinal);
+        JogarNovamente();
       }
+    }
+
+    private void JogarNovamente()
+    {
+      var result = MessageBox.Show("Deseja jogar novamente?", "Novo Jogo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+      if (result == DialogResult.Yes)
+        botoes.ForEach(x => Controls.Remove(x));
+      else
+        Application.Exit();
     }
 
     private void MontaInterfaceResultado(List<int> lista)
@@ -65,14 +77,14 @@ namespace BilhetePremiado
           else if (j % 3 == 2)
             position_x += 200;
 
-          CriaBotaoResultadp(position_x, position_y, lista[j]);
+          CriaBotaoResultado(position_x, position_y, lista[j]);
         }
       }
     }
 
     private int CalculaLinhasTabResult(int count) => (count % 3 == 0) ? count / 3 : (count / 3) + 1;
 
-    private void CriaBotaoResultadp(int position_x, int position_y, int numeroDaSorte)
+    private void CriaBotaoResultado(int position_x, int position_y, int numeroDaSorte)
     {
       Button button = new Button();
 
@@ -91,6 +103,7 @@ namespace BilhetePremiado
       forma.AddEllipse(0, 0, button.Width, button.Height);
       button.Region = new System.Drawing.Region(forma);
 
+      botoes.Add(button);
       Controls.Add(button);
     }
   }
