@@ -1,0 +1,17 @@
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\bin\Debug\net7.0-windows\BilheteLoteriaPremiado.exe
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\bin\Debug\net7.0-windows\BilheteLoteriaPremiado.deps.json
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\bin\Debug\net7.0-windows\BilheteLoteriaPremiado.runtimeconfig.json
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\bin\Debug\net7.0-windows\BilheteLoteriaPremiado.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\bin\Debug\net7.0-windows\BilheteLoteriaPremiado.pdb
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilhetePremiado.Form_Principal.resources
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.Properties.Resources.resources
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.csproj.GenerateResource.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.AssemblyInfoInputs.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.AssemblyInfo.cs
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.csproj.CoreCompileInputs.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\refint\BilheteLoteriaPremiado.dll
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.pdb
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\BilheteLoteriaPremiado.genruntimeconfig.cache
+C:\Users\deley\Source\Workspaces\WF-Portifolio\Estudos\BilheteLoteriaPremiado2.0\obj\Debug\net7.0-windows\ref\BilheteLoteriaPremiado.dll
