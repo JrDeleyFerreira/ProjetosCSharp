@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing.Drawing2D;
+using System.Linq;
 using System.Windows.Forms;
 
 namespace BilhetePremiado;
@@ -40,7 +41,7 @@ public partial class Form_Principal : Form
 			SalvaCartelasDeCadaSorteio.SalvaSorteiosEmArquivo(resultados, qtdeSorteios);
 			var resultadoFinal = totalizadorResultados.RecuperaMaisSorteados(qtdeDezenas);
 
-			MontaInterfaceResultado(resultadoFinal);
+			MontaInterfaceResultado(resultadoFinal.Order().ToList());
 			JogarNovamente();
 		}
 	}
