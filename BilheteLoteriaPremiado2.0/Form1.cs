@@ -35,7 +35,7 @@ public partial class Form_Principal : Form
 				var novoJogo = new EstruturaSorteios(qtdeDezenas);
 				var aposta = novoJogo.RealizaSorteios();
 				totalizadorResultados.SalvaTodosOsSorteios(aposta);
-				resultados = arquvioSorteios.CriaArquivoCanhotos(aposta);
+				resultados = arquvioSorteios.CriaArquivoCanhotos(aposta.Order().ToList());
 			}
 
 			SalvaCartelasDeCadaSorteio.SalvaSorteiosEmArquivo(resultados, qtdeSorteios);
